@@ -1,0 +1,20 @@
+# Rstudio files
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.httr-oauth
+.Renviron
+
+# jupyter
+*.ipynb_checkpoints/*
+*checkpoint*
+
+# Large data files
+*.vcf*
+*.pi
+*_pi.txt*
+*_dxy.txt*
+data_generation/popgenome/data/pi_est
+data_generation/popgenome/data/pi_est_valid
